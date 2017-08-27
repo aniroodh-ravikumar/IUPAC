@@ -1,0 +1,51 @@
+
+Alkyl halides
+
+The halogen is treated as a substituent on an alkane chain. The halo- substituent is considered of equal rank with an alkyl substituent in the numbering of the parent chain. The halogens are represented as follows:
+
+F	fluoro-
+Cl	chloro-
+Br	bromo-
+I	iodo-
+$
+Alcohols 
+
+Alcohols are named by replacing the suffix -ane with -anol. 
+If there is more than one hydroxyl group (-OH), the suffix is expanded to include a prefix that indicates the 
+number of hydroxyl groups present (-anediol, -anetriol, etc.). 
+The position of the hydroxyl group(s) on the parent chain is(are) indicated by placing the number(s)
+ corresponding to the location(s) on the parent chain directly in front of the base name (same as alkenes).
+$
+Aldehydes 
+
+Aldehydes are named by replacing the suffix -ane with -anal.
+ If there is more than one -CHO group, the suffix is expanded to include a prefix that indicates the 
+number of -CHO groups present (-anedial - there should not be more than 2 of these groups on the 
+parent chain as they must occur at the ends). 
+It is not necessary to indicate the position of the -CHO group because this group will be at the end of 
+the parent chain and its carbon is automatically assigned as C-1. 
+$
+Carboxylic Acids 
+
+Carboxylic acids are named by counting the number of carbons in the longest continuous chain including the 
+carboxyl group and by replacing the suffix -ane of the corresponding alkane with -anoic acid. 
+If there are two -COOH groups, the suffix is expanded to include a prefix that indicates the number of -COOH groups 
+present (-anedioic acid - there should not be more than 2 of these groups on the parent chain as they must occur at the ends). 
+It is not necessary to indicate the position of the -COOH group because this group will be at the end of the parent chain and its
+ carbon is automatically assigned as C-1.
+$
+Summary of functional groups
+
+group	   Prefix	    Suffix
+carboxylic    none         -oic acid
+acids            
+aldehydes   none	   -al
+ketones       none	   -one
+alchols         hydroxy-   -ol
+amines        amino-	   -amine
+ethers          alkoxy-	   -ether
+fluorine        fluoro-	   none
+chlorine       chloro-	   none
+bromine       bromo-	   none
+iodine           iodo-	   none
+$

@@ -1,0 +1,44 @@
+In order to name organic compounds you must first memorize a few basic names.
+These names are listed within the discussion of naming alkanes.
+In general, the base part of the name reflects the number of carbons in what you have assigned to be the parent chain.
+The suffix of the name reflects the type(s) of functional group(s) present on (or within) the parent chain.
+Other groups which are attached to the parent chain are called substituents.
+
+Alkanes - saturated hydrocarbons
+The names of the straight chain saturated hydrocarbons for up to a 12 carbon chain are shown below. The names of the substituents formed by the removal of one hydrogen from the end of the chain is obtained by changing the suffix -ane to -yl.
+$
+Number of Carbons     Name
+1	methane
+2	ethane
+3	propane
+4	butane
+5	pentane
+6	hexane
+7	heptane
+8	octane
+9	nonane
+10	decane
+11	undecane
+12	dodecane
+$
+Here is a simple list of rules to follow. Some examples are given at the end of the list.
+
+1.Identify the longest carbon chain. This chain is called the parent chain.
+
+2.Identify all of the substituents (groups appending from the parent chain).
+
+3.Number the carbons of the parent chain from the end that gives the substituents the lowest numbers. When compairing a series of numbers, the series that is the lowest is the one which contains the lowest number at the occasion of the first difference. If two or more side chains are in equivalent positions, assign the lowest number to the one which will come first in the name.
+
+4.If the same substituent occurs more than once, the location of each point on which the substituent occurs is given. In addition, the number of times the substituent group occurs is indicated by a prefix (di, tri, tetra, etc.).
+
+5.If there are two or more different substituents they are listed in alphabetical order using the base name (ignore the prefixes).
+The only prefix which is used when putting the substituents in alphabetical order is iso as in isopropyl or isobutyl. The prefixes sec- and tert- are not used in determining alphabetical order except when compared with each other.
+$
+6.If chains of equal length are competing for selection as the parent chain, then the choice goes in series to:
+a) the chain which has the greatest number of side chains.
+b) the chain whose substituents have the lowest- numbers.
+c) the chain having the greatest number of carbon atoms in the smaller side chain.
+d)the chain having the least branched side chains.
+
+7.A cyclic (ring) hydrocarbon is designated by the prefix cyclo- which appears directly in front of the base name.
+$
