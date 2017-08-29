@@ -352,30 +352,14 @@ cin>>n;
 clrscr();
 if(n==1)
 {
-char buf[2000];
-cout<<"1.Basic naming rules \n2.Unsaturation and cyclic compounds \n3.Naming of functional groups"<<endl;
-cin>>k;
-if(k==1)
-{ ifstream l("iupac2.txt");
-while(l.getline(buf,2000,'$'))
+char buf[4000];
+ifstream l("BGInfo.txt");
+while(l.getline(buf,4000,'$'))
 {cout<<buf;
 getch();}
-l.close();}
-if(k==2)
-
-{ ifstream l("iupac3.txt");
-while(l.getline(buf,2000,'$'))
-{cout<<buf;
-getch();}
-l.close();}
-if(k==3)
-{ ifstream l("iupac4.txt");
-while(l.getline(buf,2000,'$'))
-{cout<<buf;
-getch();}
-l.close();}
-
+l.close();
 }
+ 
 if(n==2)
 {iupac obj1;
 cout<<"Enter the primary prefix,sec. prefix,root word,prim suffix,sec suffix"<<endl;
